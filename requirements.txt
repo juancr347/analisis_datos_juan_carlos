@@ -9,3 +9,6 @@ scipy
 mysql-connector-python
 sqlalchemy
 ydata-profiling
+fastcluster
+geopy
+folium
